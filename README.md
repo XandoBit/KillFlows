@@ -2,7 +2,7 @@
 =========
 -------------------App prueba KillFlows-------------------
 =========
-![Logo de killerapp](http://www.informatica7.es/images/stories/asistencia-remota-270.jpg "Logo killerapp")
+![Logo de killerapp](http://sociotec.es/wp-content/uploads/2014/12/Inicio1.jpg "Logo killerapp")
 =========
 Proyecto : HP SDN VAN Controller APP de Hola mundo
 
