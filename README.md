@@ -5,15 +5,14 @@ APP de prueba para matar un flow de un host determinado.
 =========
 -------------------App prueba Kill-Flows-------------------
 =========
-![Logo de killerapp](http://t1.gstatic.com/images?q=tbn:ANd9GcT1Cme2sngTUYUdH8iklfgc00sHn3KYZp1x3aIozmPSkUbGnPknDg"Logo killerapp")
+![Logo de killerapp](http://www.informatica7.es/images/stories/asistencia-remota-270.jpg"Logo killerapp")
 =========
-Proyecto : MusicTop
----------
-Autor:  Adán Rafael López Lecuona.
+Proyecto : HP SDN VAN Controller APP de Hola mundo
+
 
 #Objetivo
 
-Red social dedicada a la compartición de enlaces de música, con las lista de mejores valorados. En el cuál el usuario podrá conocer a multiples amigos afines a su misma música.
+Aplicación hecha en python que mediante la librería de hpsdnclient nos comunicamos con la controladora Hp y podemos cortar el flujo de un host determinado que esté en la red SDN de Openflow.
 
 -------------------------------------
 # Enlaces de la APP 
@@ -21,11 +20,11 @@ Red social dedicada a la compartición de enlaces de música, con las lista de m
 ### Enlace de: StaticPage
 [Ir a la static Page](http://xandobit.github.io/webpageSYTW.github.io/)
 ### Enlace de: Heroku
-[Ir a App en Heroku](https://MusicTop.herokuapp.com/)
+[Ir a App en Heroku](https://KillerApp.herokuapp.com/)
 
 
 
 ### Enlace de Coveralls
-[![Coverage Status](https://coveralls.io/repos/XandoBit/MusicTop/badge.png)](https://coveralls.io/r/XandoBit/MusicTop)
+[![Coverage Status](https://coveralls.io/repos/XandoBit/KillerApp/badge.png)](https://coveralls.io/r/XandoBit/KillerApp)
 
 -------------------------------------
