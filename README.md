@@ -1,11 +1,8 @@
-# KillFlows
-APP de prueba para matar un flow de un host determinado. 
-
 
 =========
--------------------App prueba Kill-Flows-------------------
+-------------------App prueba KillFlows-------------------
 =========
-![Logo de killerapp](http://www.informatica7.es/images/stories/asistencia-remota-270.jpg"Logo killerapp")
+![Logo de killerapp](http://www.informatica7.es/images/stories/asistencia-remota-270.jpg "Logo killerapp")
 =========
 Proyecto : HP SDN VAN Controller APP de Hola mundo
 
