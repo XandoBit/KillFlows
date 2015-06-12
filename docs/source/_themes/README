@@ -1,0 +1,31 @@
+Estilos Frasco Esfinge
+===================
+
+Este repositorio contiene estilos esfinge para Frasco y Frasco relacionados
+proyectos. Para utilizar este estilo en la documentación de la Esfinge, siga
+esta guía:
+
+1. poner esta carpeta como _themes en la carpeta docs. Alternativamente
+   también puede utilizar submódulos git de revisar los contenidos allí.
+2. agregar esto a su conf.py:
+
+   sys.path.append (os.path.abspath ('_ temas'))
+   html_theme_path = [''] _themes
+   html_theme = 'Frasco'
+
+Existen los siguientes temas:
+
+- 'Frasco' - el tema de la documentación matraz aforado para grandes
+  proyectos
+- 'Flask_small' - pequeña de una página temática. Destinado a ser utilizado por
+  muy pequeñas bibliotecas addon para frasco.
+
+Existen las siguientes opciones para el tema flask_small:
+
+   [Opciones]
+   index_logo = '' nombre de archivo de una imagen en _static
+                                para ser utilizado como reemplazo para el
+                                h1 en el archivo index.rst.
+   index_logo_height = 120px altura del logotipo de índice
+   github_fork = '' nombre de repositorio en GitHub para el
+                                "Me tenedor" insignia
